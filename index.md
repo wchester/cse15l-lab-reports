@@ -4,6 +4,7 @@ Yo
 <br>
 *Hello*
 **World**
+<br>
 [My Website](https://wchester.github.io/cse15l-lab-reports/)
 ![Apple](https://www.applesfromny.com/wp-content/uploads/2020/06/SnapdragonNEW.png)
 > Quote
@@ -15,7 +16,7 @@ Yo
 2. Two
 3. Three
 
-'Hello' world
+`Hello` world
 ---
 ```
 # block
