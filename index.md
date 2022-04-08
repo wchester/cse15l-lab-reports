@@ -6,7 +6,7 @@ Yo
 **World**
 <br>
 [My Website](https://wchester.github.io/cse15l-lab-reports/)
-![Apple](https://www.applesfromny.com/wp-content/uploads/2020/06/SnapdragonNEW.png)
+![Apple](https://www.applesfromny.com/wp-content/uploads/2020/06/SnapdragonNEW.png =100x100)
 > Quote
 * 1
 * 2
