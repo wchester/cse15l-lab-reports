@@ -85,7 +85,7 @@ $ ssh cs15lsp22zz@ieng6.ucsd.edu "ls -lat"
 ```
 * By putting a command in quotations after using the log in command you can run said command and then be automattically signed in and out of the remote server to do so. Below is what it looks like to run the above command:
 
-!["ls_-lat"_Screenshot](CSE15lLab1ScreenShot.png)
+!["ls_-lat"_Screenshot](ScreenShotQuoteCode.png)
 
 ```
 # Within the remote server
@@ -97,6 +97,3 @@ $ ssh cs15lsp22zz@ieng6.ucsd.edu "ls -lat"
 * A couple other things you can do to be more efficient is to use the up arrow key to get you last commands you put into the terminal. You can also have your username copied that way whenever you use it you can just paste it instead of having to type it out everytime.
 
 ## Congratulations, you are done with this tutorial!
-
-
-
