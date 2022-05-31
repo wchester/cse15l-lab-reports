@@ -4,6 +4,9 @@
 [LabWriteUp2](lab_report_2-week_4.md)
 <br>
 [LabWriteUp3](lab-report-3-week-6.md)
+<br>
+[LabWriteUp4](lab-report4-week8.md)
+
 ## Markdown Basic Syntax
 Yo
 <br>
